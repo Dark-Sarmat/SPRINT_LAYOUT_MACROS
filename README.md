@@ -9,3 +9,6 @@
 Подробную информацию о всех макросах вы можете получить на странице проекта: https://www.ionline.by/diy/sxemotexnika/makrosy-dlya-sprint-layout/makrosy-dlya-sprint-layout-04-02-2019/
 
 
+### PLus Edit
+
+Добавил свой набор макросов
